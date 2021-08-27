@@ -9,4 +9,4 @@ Situação problema onde era necessário:
 - se o nº for ímpar, escreva "ímpar" e o nº correspondente;
 - se o nº for zero, esceva "zero".
 
-Foi usado laço de repetição for para contagem e if, else if e else para condição.
+Foi usado estrutura de repetição for para contagem e if, else if e else para condição.
